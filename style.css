@@ -1,0 +1,53 @@
+#text {
+  font-size: 13px;
+}
+
+.background {
+  background-color: plum;
+}
+
+.first-section {
+  border: 3px solid indigo;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  color: aliceblue;
+}
+
+.ada-lovelace {
+  width: 300px;
+  height: 400px;
+}
+
+.second-section {
+  border: 3px solid indigo;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.third-section {
+  border: 3px solid indigo;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.second-picture {
+  width: 100px;
+  height: 100px;
+}
+
+.third-picture {
+  width: 100px;
+  height: 100px;
+}
+
+.fourth-picture {
+  width: 100px;
+  height: 100px;
+}
